@@ -5,7 +5,7 @@ from openai import OpenAI
 # CONFIG
 # ==============================
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 DATASET_DIR = "dataset"
 OUTPUT_DIR = "output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
