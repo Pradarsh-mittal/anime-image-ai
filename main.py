@@ -8,11 +8,11 @@ from telethon.errors import UserAlreadyParticipantError
 from openai import OpenAI
 
 
-API_ID = 28379070          
-API_HASH = "51be9c068db2c569964bdb85b998f546"    
-INVITE_LINK = "https://t.me/+4nWgR8-pKixmMzI1"  
+API_ID =           
+API_HASH = ""    
+INVITE_LINK = ""  
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
 DATASET_DIR = "dataset"
 os.makedirs(DATASET_DIR, exist_ok=True)
