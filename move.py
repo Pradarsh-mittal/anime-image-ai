@@ -5,8 +5,8 @@ import time
 from telethon import TelegramClient
 
 
-API_ID = 28379070          
-API_HASH = "51be9c068db2c569964bdb85b998f546" 
+API_ID =          
+API_HASH = "" 
 DOWNLOAD_DIR = "downloads"
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)
 
